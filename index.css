@@ -1,0 +1,59 @@
+:root {
+  --background: grey;
+}
+
+body {
+  background-color: var(--background);
+}
+
+p {
+  margin: 0;
+}
+
+.display-container {
+  height: 20rem;
+  display: flex;
+  flex-direction: column-reverse;
+  background-color: white;
+  align-items: flex-end;
+  font-weight: bold;
+}
+
+.text-container {
+  margin: 1rem;
+}
+
+.button-container {
+  padding: 1rem;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.equal {
+  text-align-last: center;
+}
+
+.btn-group {
+  padding: 2px;
+  text-align-last: center;
+}
+
+.btn {
+  width: 40px;
+  height: 40px;
+}
+
+#equal {
+  height: auto;
+  margin: 0;
+}
+
+/* main container border */
+#border {
+  margin: 20vh 20vw;
+  background-color: darkgrey;
+}
+
+#displayChild {
+  margin: 0;
+}
