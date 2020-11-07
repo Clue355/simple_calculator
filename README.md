@@ -2,7 +2,7 @@
 
 ## Description
 
-The calculator can do simple arithmatic and post/retrieve data to/from a server
+A Calculator app that lets you view other users calculations
 
 ## Links
 
@@ -21,7 +21,6 @@ While creating this project I had to review fundamentals and impliment technolog
 - [x] create HTML CSS gui for calculator
 - [x] create Javascript button funtionality
 - [ ] create Javascript keyboard input functionality
-- [x] plan Nodejs functionality
 - [ ] create a new user for each visitor
 - [ ] create Nodejs express routes
 - [ ] create Nodejs server post/retrieve
